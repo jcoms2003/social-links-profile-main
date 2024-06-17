@@ -14,7 +14,7 @@ body {
 .container {
   background-color: hsl(0, 0%, 12%);
   height: fit-content;
-  width: 300px;
+  width: 250px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,17 +24,17 @@ body {
 }
 .img1 {
   border-radius: 50%;
-  width: 65px;
-  margin: 15px;
+  width: 45px;
+  margin: 10px;
 }
 h2 {
   color: hsl(0, 0%, 100%);
   padding: 5px;
-  font-size: 22px;
+  font-size: 20px;
 }
 p.UK {
   color: hsl(75, 94%, 57%);
-  font-size: 13px;
+  font-size: 11px;
   margin-bottom: 20px;
 }
 p.quote {
@@ -47,18 +47,17 @@ p.quote {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 79%;
-  margin: 0 15px;
+  width: 80%;
 }
 .box {
   background-color: hsl(0, 0%, 20%);
-  padding: 10px;
+  padding: 9px;
   border-radius: 10px;
   width: 100%;
   margin-bottom: 10px;
   text-align: center;
   color: hsl(0, 0%, 100%);
-  font-size: 13px;
+  font-size: 11px;
 }
 .box:hover {
   color: hsl(0, 0%, 8%);
